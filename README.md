@@ -8,3 +8,4 @@ A further layer of encryption for storing messages in a MSQL database with serve
 Connections are made usinga threaded server and client system.
 Clients have a graphical user interface to login and input messages to.
 
+https://youtu.be/xhWuNJ392Bo
